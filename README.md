@@ -44,9 +44,3 @@ Soy un desarrollador en formación con una fuerte orientación a la creación de
 - 🧠 Siempre abierto a aprender, colaborar y construir algo chulo
 
 ---
-
-### 🐍 Bonus: Animación de contribuciones
-
-<p align="center">
-  <img src="https://github.com/Manuelloira/Manuelloira/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
